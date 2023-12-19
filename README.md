@@ -21,7 +21,7 @@ Feature:
 - Expand your Inventory space to 600.
 
 Save To Use?
-- Yes. The way this Mod works is forcibly modifying the original calculated value of Max Inventory Space to 600. Technicall it will not harm your save file.
+- Yes. The way this Mod works is forcibly modifying the original calculated value of Max Inventory Space to 600. Technically it will not harm your save file.
 
 Notes:
 - The Max Inventory Space will drop back to the normal amount if the Mod is not loaded; in this case all the exceeded items will still be saved but you will not be able to add anything into your inventory until you have cleaned all of the exceeded items in your inventory/load the Inventory Expansion Mod.
