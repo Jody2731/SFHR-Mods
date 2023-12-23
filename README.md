@@ -13,7 +13,7 @@ Copy and Paste `%USERPROFILE%\AppData\LocalLow\Sky9 Games\Strike Force Heroes` i
 4. Report any issue you have encountered. My Discord: `jody2731`
 
 
-# Mods Instructions v1.17
+# Mods Instructions v1.18
 
 Inventory Expansion
 ---------------------------------------------------
